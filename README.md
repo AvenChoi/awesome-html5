@@ -4,24 +4,24 @@ Awesome HTML5资源库
 A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-python](https://github.com/vinta/awesome-python)
 
 ##Table of Contents
-- [Articles and standards](#articles-and-standards)
-- [Elements](#elements)
-  - [Canvas](#canvas)
+- [文章与标准](#文章与标准)
+- [元素](#元素)
+  - [画布](#画布)
   - [Sectioning](#sectioning)
-  - [Media Elements](#media-elements)
-  - [Forms](#forms)
-  - [Time](#time)
+  - [媒体元素](#媒体元素)
+  - [表单](#表单)
+  - [时间日期](#时间日期)
   - [WebVTT](#webtt)
   - [HTML Imports](#html-imports)
-- [APIs](#apis)
-  - [Push Notifications](#push-notifications)
-  - [Permissions](#permissions)
-  - [Speech synthesis / voice recognition](#speech-synthesis)
-  - [Geolocation](#geolocation)
-  - [Audio](#audio)
-  - [Cryptography](#cryptography)
-  - [Media capture](#media-capture)
-  - [File](#file)
+- [API使用](#API使用)
+  - [推送通知](#推送通知)
+  - [权限](#权限)
+  - [语音识别](#语音识别)
+  - [地理位置](#地理位置)
+  - [音频](#音频)
+  - [加密解密](#加密解密)
+  - [视频捕获](#视频捕获)
+  - [文件管理](#文件管理)
   - [Frame timing](#frame-timing)
   - [Web Manifest (Web Apps)](#web-manifest)
   - [requestIdleCallback](#requestidlecallback)
@@ -40,7 +40,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 - [Web Workers](#web-workers)
 - [Service Workers](#service-workers)
 - [WebGL](#webgl)
-- [Browser compatibility](#browser-compatibility)
+- [浏览器兼容性](#浏览器兼容性)
 - [Books](#books)
 - [Game development](#game-development)
 - [Videos and Keynotes](#videos-and-keynotes)
@@ -50,14 +50,14 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [Twitter](#twitter)
 - [贡献区](#贡献区)
 
-##Articles and standards
+##文章与标准
 
 * [Differences bewtween HTML5 and HTML4 from W3C](http://www.w3.org/TR/html5-diff/)
 * [DOCTYPES and markup styles from WPF](http://docs.webplatform.org/wiki/guides/doctypes_and_markup_styles)
 
-##Elements
+##元素
 
-###Canvas
+###画布
 
 * [Brief description from W3 Schools](http://www.w3schools.com/tags/tag_canvas.asp)
 * [Tutorial from MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
@@ -68,7 +68,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [How to Use The HTML5 Sectioning Elements](http://blog.teamtreehouse.com/use-html5-sectioning-elements)
 
-###Media Elements
+###媒体元素
 
 * Audio and Video
   - [audio tag from W3Schools](http://www.w3schools.com/tags/tag_audio.asp)
@@ -82,7 +82,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * track tag
   - [Brief description from W3 Schools](http://www.w3schools.com/tags/tag_track.asp)
 
-###Forms
+###表单
 
 * [HTML5 Form elements from W3Schools](http://www.w3schools.com/html/html5_form_elements.asp)
 * [Changes to forms in HTML5 from MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms_in_HTML)
@@ -92,7 +92,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Details element](http://html5doctor.com/the-details-and-summary-elements/)
 * [Details element polyfill](http://www.smashingmagazine.com/2014/11/complete-polyfill-html5-details-element/)
 
-###Time
+###时间日期
 
 * [Time element guide](http://www.sitepoint.com/html5-time-element-guide/)
 
@@ -104,50 +104,50 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [Introduction to HTML imports](http://webcomponents.org/articles/introduction-to-html-imports/)
 
-##APIs
+##API使用
 
-###Push Notifications
+###推送通知
 
 * [Push Notifications On The Web - Google Chrome](http://deanhume.com/Home/BlogPost/push-notifications-on-the-web---google-chrome/10128)
 * [Push Notifications on the Open Web](http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web)
 * [Push API W3C draft](http://w3c.github.io/push-api/)
 * [Notifications API](https://notifications.spec.whatwg.org/)
 
-###Permissions
+###权限
 
 * [Permissions API for the Web by Google](https://developers.google.com/web/updates/2015/04/permissions-api-for-the-web)
 
-###Speech Synthesis
+###语音识别
 
 * [Intro to the HTML5 Speech Synthesis API](http://creative-punch.net/2014/10/intro-html5-speech-synthesis-api/)
 * [Another useful intro](http://shapeshed.com/html5-speech-recognition-api/)
 * [Experimenting with the Web Speech API](http://www.sitepoint.com/experimenting-web-speech-api/)
 * [Free voice recognition library (annyang)](https://www.talater.com/annyang/)
 
-###Geolocation
+###地理位置
 
 * [Using Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation)
 * [HTML5 Apps: Positioning with Geolocation](http://code.tutsplus.com/tutorials/html5-apps-positioning-with-geolocation--mobile-456)
 
-###Audio
+###音频
 
 * [Getting started with the Web Audio API](http://www.html5rocks.com/en/tutorials/webaudio/intro/?redirect_from_locale=es)
 * [Web Audio API at MDN](https://developer.mozilla.org/es/docs/Web_Audio_API)
 * [Making a Guitar Tuner with HTML5](http://jonathan.bergknoff.com/journal/making-a-guitar-tuner-html5)
 
-###Cryptography
+###加密解密
 
 * [Web Cryptography API draft](http://www.w3.org/TR/WebCryptoAPI/)
 * [Table of web cryptography support](http://diafygi.github.io/webcrypto-examples/)
 * [Window.crypto](https://developer.mozilla.org/en-US/docs/Web/API/Window/crypto)
 * [Cryptography next steps from W3C](http://www.w3.org/2012/webcrypto/webcrypto-next-workshop/report.html)
 
-###Media Capture
+###视频捕获
 
 * [Capturing Audio & Video in HTML5](http://www.html5rocks.com/es/tutorials/getusermedia/intro/)
 * [Using the media capture API](http://www.sitepoint.com/using-the-media-capture-api/)
 
-###File
+###文件管理
 
 * [Using files from web applications (MDN)](https://developer.mozilla.org/en-US/docs/Using_files_from_web_applications)
 * [Reading local files in JavaScript](http://www.html5rocks.com/en/tutorials/file/dndfiles/)
@@ -265,7 +265,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Great article on Service Workers](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
 * [Service Workers from W3](http://www.w3.org/TR/service-workers/)
 
-## WebGL 3D绘图标准
+## WebGL-3D绘图标准
 
 * [WebGL Fundamentals](http://www.html5rocks.com/en/tutorials/webgl/webgl_fundamentals/)
 
