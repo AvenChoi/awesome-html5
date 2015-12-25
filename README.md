@@ -7,7 +7,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 - [文章与标准](#文章与标准)
 - [元素](#元素)
   - [画布](#画布)
-  - [Sectioning](#sectioning)
+  - [片段](#片段)
   - [媒体元素](#媒体元素)
   - [表单](#表单)
   - [时间日期](#时间日期)
@@ -52,21 +52,21 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ##文章与标准
 
-* [Differences bewtween HTML5 and HTML4 from W3C](http://www.w3.org/TR/html5-diff/)
-* [DOCTYPES and markup styles from WPF](http://docs.webplatform.org/wiki/guides/doctypes_and_markup_styles)
+* [从W3C最新发布的HTML5看看他与HTML4的不同](http://www.w3.org/TR/html5-diff/)
+* [DOCTYPES文档类型和WPF标记样式](http://docs.webplatform.org/wiki/guides/doctypes_and_markup_styles)
 
 ##元素
 
 ###画布
 
-* [Brief description from W3 Schools](http://www.w3schools.com/tags/tag_canvas.asp)
-* [Tutorial from MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
-* [Various Tutorials](http://www.html5canvastutorials.com/)
-* [Cheat Sheet](http://cheatsheetworld.com/programming/html5-canvas-cheat-sheet/)
+* [W3Schools介绍canvas画布的用法](http://www.w3schools.com/tags/tag_canvas.asp)
+* [关于Canvas画布的教程-谋智开发者网络MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
+* [Html5 Canvas各种教程-html5canvastutorials](http://www.html5canvastutorials.com/)
+* [HTML5 Canvas速查表](http://cheatsheetworld.com/programming/html5-canvas-cheat-sheet/)
 
-###Sectioning
+###片段
 
-* [How to Use The HTML5 Sectioning Elements](http://blog.teamtreehouse.com/use-html5-sectioning-elements)
+* [手把手教你用HTML5 section片段](http://blog.teamtreehouse.com/use-html5-sectioning-elements)
 
 ###媒体元素
 
