@@ -1,4 +1,4 @@
-Awesome HTML5资源库 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Awesome HTML5资源库
 =============
 
 A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-python](https://github.com/vinta/awesome-python)
@@ -306,9 +306,9 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Making the mobile web fast, feature-rich, and beautiful](https://www.youtube.com/watch?v=EXjPsvwIDwU)
 * [Dart: HTML of the Future, Today!](https://www.youtube.com/watch?v=euCNWhs7ivQ)
 
-##Websites and resources
+##网站与资源
 
-###Websites
+###官方网站
 
 * [HTML official reference](http://docs.webplatform.org/wiki/html)(allows collaborative modification of content like wiki)
 * [HTML5 Rocks](http://www.html5rocks.com/) (news, tutorials and updates)
@@ -318,7 +318,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [HTML5 development guide from MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
 * [W3C Highlights form June 2014](http://www.w3.org/2014/06/w3c-highlights/)
 
-###Weekly news
+###网络周刊
 
 * [HTML5 Weekly](http://html5weekly.com/)
 * [Open Web Platform Daily Digest](http://webplatformdaily.org/)
@@ -326,7 +326,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Responsive Design Newsletter](http://responsivedesignweekly.com/)
 * [Daily Nerd](http://dailynerd.nl/)
 
-###Twitter
+### Twitter微博地址
 
 * [@html5](https://twitter.com/html5)
 * [@html5rock](https://twitter.com/html5rock)
@@ -337,11 +337,12 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [@mozappsdev](https://twitter.com/mozappsdev)
 * [@googlechrome](https://twitter.com/googlechrome)
 
-## Other awesome lists
+## 其他一些不错的资源列表
 
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [lists](https://github.com/jnv/lists)
 
-##Contributing
+##贡献区
 
-Your contributions are always welcome!
+我们欢迎您的代码，为未来更好的添砖加瓦！
+原项目地址 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
