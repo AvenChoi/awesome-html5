@@ -48,7 +48,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [Websites](#websites)
   - [Weekly news](#weekly-news)
   - [Twitter](#twitter)
-- [Contributing](#contributing)
+- [贡献区](#贡献区)
 
 ##Articles and standards
 
@@ -265,11 +265,11 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Great article on Service Workers](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
 * [Service Workers from W3](http://www.w3.org/TR/service-workers/)
 
-##WebGL
+## WebGL 3D绘图标准
 
 * [WebGL Fundamentals](http://www.html5rocks.com/en/tutorials/webgl/webgl_fundamentals/)
 
-##Browser compatibility
+##浏览器兼容性
 
 * [I want to use](http://www.iwanttouse.com/)
 * [Can I use...](http://caniuse.com/)
@@ -277,14 +277,14 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [HTML5 test](http://beta.html5test.com/)
 * [HTML5 demos](http://html5demos.com/)
 
-##Books
+##图书资源
 
 * [Dive into HTML5](http://diveintohtml5.info/)
 * [HTML5: Up and Running](http://www.amazon.com/HTML5-Up-Running-Mark-Pilgrim/dp/0596806027)
 * [Using the HTML5 Filesystem API](http://shop.oreilly.com/product/0636920021360.do)
 * [HTML5 Game Development Insights](http://www.apress.com/9781430266976)
 
-##Game development
+##游戏开发
 
 * [Getting started with HTML5 Game Development from Mozilla Hacks](https://hacks.mozilla.org/2013/09/getting-started-with-html5-game-development/)
 * [Info, news and tutorials](http://www.html5gamedevelopment.com/)
@@ -299,7 +299,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [Stage.js](https://github.com/shakiba/stage.js)
   - [cocos2d](https://github.com/cocos2d/cocos2d-html5)
 
-##Videos and Keynotes
+##视频资源
 
 * [HTML5 Developer Conference](http://html5devconf.com/videos.html)
 * [Polymer: declarative, encapsulated, reusable components](https://www.youtube.com/watch?v=DH1vTVkqCDQ)
