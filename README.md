@@ -70,27 +70,27 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ###媒体元素
 
-* Audio and Video
-  - [audio tag from W3Schools](http://www.w3schools.com/tags/tag_audio.asp)
-  - [video tag from W3 Schools](http://www.w3schools.com/tags/tag_video.asp)
-  - [Tutorial from MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video)
-  - [Capturing audio and video in HTML5](http://www.html5rocks.com/en/tutorials/getusermedia/intro/)
-* embed tag
-  - [Brief description from W3 Schools](http://www.w3schools.com/tags/tag_embed.asp)
-* source tag
-  - [Brief description from W3 Schools](http://www.w3schools.com/tags/tag_source.asp)
-* track tag
-  - [Brief description from W3 Schools](http://www.w3schools.com/tags/tag_track.asp)
+* Audio、Video标签的使用
+  - [W3Schools audio教程](http://www.w3schools.com/tags/tag_audio.asp)
+  - [W3Schools video教程](http://www.w3schools.com/tags/tag_video.asp)
+  - [关于Audio、Video标签的使用-谋智开发者网络MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video)
+  - [关于HTML5的用户端Audio、Video资源](http://www.html5rocks.com/en/tutorials/getusermedia/intro/)
+* embed标签
+  - [W3Schools embed教程](http://www.w3schools.com/tags/tag_embed.asp)
+* source标签
+  - [W3Schools source教程](http://www.w3schools.com/tags/tag_source.asp)
+* track标签
+  - [W3Schools track教程](http://www.w3schools.com/tags/tag_track.asp)
 
 ###表单
 
 * [HTML5 Form elements from W3Schools](http://www.w3schools.com/html/html5_form_elements.asp)
 * [Changes to forms in HTML5 from MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms_in_HTML)
 
-###Details
+###细节
 
-* [Details element](http://html5doctor.com/the-details-and-summary-elements/)
-* [Details element polyfill](http://www.smashingmagazine.com/2014/11/complete-polyfill-html5-details-element/)
+* [Details细节元素](http://html5doctor.com/the-details-and-summary-elements/)
+* [Details细节 polyfill 元素](http://www.smashingmagazine.com/2014/11/complete-polyfill-html5-details-element/)
 
 ###时间日期
 
