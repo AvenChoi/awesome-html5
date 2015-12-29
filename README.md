@@ -1,4 +1,4 @@
-Awesome HTML5资源库
+Awesome HTML5资源库 官方中文版
 =============
 
 欢迎大家使用《Awesome HTML5资源库》，这里有丰富的HTML5资源列表，可以为编码提供方便。欢迎收藏到浏览器文件夹 （Ctrl+D） 或 直接加Github Star！！！
