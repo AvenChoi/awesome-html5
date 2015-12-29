@@ -4,7 +4,7 @@ Awesome HTML5资源库 官方中文版
 欢迎大家使用《Awesome HTML5资源库》，这里有丰富的HTML5资源列表，可以为编码提供方便。欢迎收藏到浏览器文件夹 （Ctrl+D） 或 直接加Github Star！！！
 
 
-##Table of Contents
+##资源库大纲
 - [文章与标准](#文章与标准)
 - [元素](#元素)
   - [画布](#画布)
@@ -85,8 +85,8 @@ Awesome HTML5资源库 官方中文版
 
 ###表单
 
-* [HTML5 Form elements from W3Schools](http://www.w3schools.com/html/html5_form_elements.asp)
-* [Changes to forms in HTML5 from MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms_in_HTML)
+* [W3S：HTML5表单元素教程](http://www.w3schools.com/html/html5_form_elements.asp)
+* [MDN：HTML5的表单有哪些不同？](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms_in_HTML)
 
 ###细节
 
@@ -95,24 +95,24 @@ Awesome HTML5资源库 官方中文版
 
 ###时间日期
 
-* [Time element guide](http://www.sitepoint.com/html5-time-element-guide/)
+* [时间元素指南](http://www.sitepoint.com/html5-time-element-guide/)
 
 ###WebVTT
 
-* [First draft from W3C](http://www.w3.org/TR/2014/WD-webvtt1-20141113/)
+* [W3C：WebVTT草稿](http://www.w3.org/TR/2014/WD-webvtt1-20141113/)
 
 ###HTML Imports
 
-* [Introduction to HTML imports](http://webcomponents.org/articles/introduction-to-html-imports/)
+* [HTML imports教程](http://webcomponents.org/articles/introduction-to-html-imports/)
 
 ##API使用
 
 ###推送通知
 
-* [Push Notifications On The Web - Google Chrome](http://deanhume.com/Home/BlogPost/push-notifications-on-the-web---google-chrome/10128)
-* [Push Notifications on the Open Web](http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web)
-* [Push API W3C draft](http://w3c.github.io/push-api/)
-* [Notifications API](https://notifications.spec.whatwg.org/)
+* [网络推送通知 - Google Chrome](http://deanhume.com/Home/BlogPost/push-notifications-on-the-web---google-chrome/10128)
+* [网络推送通知 - Open Web](http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web)
+* [W3C：推送API草稿](http://w3c.github.io/push-api/)
+* [通知API](https://notifications.spec.whatwg.org/)
 
 ###权限
 
@@ -157,7 +157,7 @@ Awesome HTML5资源库 官方中文版
 
 ###帧计时
 
-* [Video from google developers](https://www.youtube.com/watch?v=4zoC3eaa9z0)
+* [Google Developer|Youtube:Timing API](https://www.youtube.com/watch?v=4zoC3eaa9z0)
 * [Draft from W3C](https://w3c.github.io/frame-timing/)
 
 ###离线应用
@@ -208,11 +208,11 @@ Awesome HTML5资源库 官方中文版
 
 ##客户端存储
 
-* [Client-Side Storage](http://www.html5rocks.com/en/tutorials/offline/storage/)
-* [Offline Cookbook](https://jakearchibald.com/2014/offline-cookbook/)
-* [Introduction to IndexedDB](http://www.codemag.com/Article/1411041)
-* [Real-World Off-Line Data Storage](http://code.tutsplus.com/tutorials/real-world-off-line-data-storage--net-34063)
-* [Local storage tutorial](https://developer.mozilla.org/en-US/Add-ons/Overlay_Extensions/XUL_School/Local_Storage)
+* [客户端存储](http://www.html5rocks.com/en/tutorials/offline/storage/)
+* [离线指南手册](https://jakearchibald.com/2014/offline-cookbook/)
+* [IndexedDB教程](http://www.codemag.com/Article/1411041)
+* [真实环境下离线数据存储](http://code.tutsplus.com/tutorials/real-world-off-line-data-storage--net-34063)
+* [本地存储教程](https://developer.mozilla.org/en-US/Add-ons/Overlay_Extensions/XUL_School/Local_Storage)
 
 ##性能
 
