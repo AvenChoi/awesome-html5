@@ -1,7 +1,8 @@
 Awesome HTML5资源库
 =============
 
-A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-python](https://github.com/vinta/awesome-python)
+欢迎大家使用《Awesome HTML5资源库》，这里有丰富的HTML5资源列表，可以为编码提供方便。欢迎收藏到浏览器文件夹 （Ctrl+D） 或 直接加Github Star！！！
+
 
 ##Table of Contents
 - [文章与标准](#文章与标准)
