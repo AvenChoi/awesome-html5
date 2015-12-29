@@ -22,19 +22,19 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [加密解密](#加密解密)
   - [视频捕获](#视频捕获)
   - [文件管理](#文件管理)
-  - [Frame timing](#frame-timing)
-  - [Web Manifest (Web Apps)](#web-manifest)
-  - [requestIdleCallback](#requestidlecallback)
-- [Semantics](#semantics)
-- [Accessibility](#accessibility)
-- [DOM management](#dom-management)
+  - [帧计时](#帧计时)
+  - [离线应用](#离线应用)
+  - [浏览器调节渲染requestidlecallback](#浏览器调节渲染requestidlecallback)
+- [语义](#语义)
+- [易用性](#易用性)
+- [DOM管理](#DOM管理)
   - [Shadow DOM](#shadow-dom)
-  - [Data Binding](#data-binding)
-  - [Web Components](#web-components)
-- [Client side storage](#client-side-storage)
-- [Performance](#performance)
-- [Mobile](#mobile)
-- [Communications and interoperability](#communications-and-interoperability)
+  - [数据绑定](#数据绑定)
+  - [Web组件](#Web组件)
+- [客户端存储](#客户端存储)
+- [性能](#性能)
+- [移动开发](#移动开发)
+- [沟通与协同](#沟通与协同)
   - [Web Sockets](#web-sockets)
   - [WebRTC](#webrtc)
 - [Web Workers](#web-workers)
@@ -154,29 +154,29 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [File API Draft](https://w3c.github.io/FileAPI/)
 * [File system API](http://www.w3.org/TR/file-system-api/)
 
-###Frame timing
+###帧计时
 
 * [Video from google developers](https://www.youtube.com/watch?v=4zoC3eaa9z0)
 * [Draft from W3C](https://w3c.github.io/frame-timing/)
 
-###Web Manifest
+###离线应用
 
 * [A Beginner's Guide to Using the Application Cache](http://www.html5rocks.com/en/tutorials/appcache/beginner/)
 * [App manifest in MDN](https://developer.mozilla.org/en/Apps/Build/Manifest)
 * [Manifest for web application from W3C](https://w3c.github.io/manifest/)
 * [WebApp Manifest in Chrome for Android](http://updates.html5rocks.com/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
 
-###requestIdleCallback
+###浏览器调节渲染requestidlecallback
 
 * [On Google developers](https://developers.google.com/web/updates/2015/08/using-requestidlecallback)
 
-##Semantics
+##语义
 
 * [Semantic elements from W3Schools](http://www.w3schools.com/html/html5_semantic_elements.asp)
 * [Sections and Outlines of an HTML5 from MDN Document](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Sections_and_Outlines_of_an_HTML5_document)
 * [HTML5 Semantics from Smashing Magazine](http://www.smashingmagazine.com/2011/11/html5-semantics/)
 
-##Accessibility
+##易用性
 
 * [ARIA from MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 * [Accessibility in HTML5](http://www.clarissapeterson.com/2012/11/html5-accessibility/)
@@ -185,7 +185,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Aria in HTML](https://www.paciellogroup.com/blog/2014/10/aria-in-html-there-goes-the-neighborhood/)
 * [Accessible and Responsive HTML5 Video Player](https://ind.ie/about/blog/accessible-video-player/)
 
-##DOM Management
+##DOM管理
 
 ###Shadow DOM
 
@@ -194,18 +194,18 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Shadow DOM CSS and Styling](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-201/)
 * [Advanced Concepts & DOM APIs](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-301/)
 
-###Data Binding
+###数据绑定
 
 * [Data-binding Revolutions with Object.observe()](http://www.html5rocks.com/en/tutorials/es7/observe/)
 
-###Web Components
+###Web组件
 
 * [Defininf custom HTML elements](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/)
 * [HTML imports](http://www.html5rocks.com/en/tutorials/webcomponents/imports/)
 * [Polymer project](https://github.com/polymer)
 * [Building Webapps with Yeoman and Polymer](http://www.html5rocks.com/en/tutorials/webcomponents/yeoman/)
 
-##Client side storage
+##客户端存储
 
 * [Client-Side Storage](http://www.html5rocks.com/en/tutorials/offline/storage/)
 * [Offline Cookbook](https://jakearchibald.com/2014/offline-cookbook/)
@@ -213,7 +213,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Real-World Off-Line Data Storage](http://code.tutsplus.com/tutorials/real-world-off-line-data-storage--net-34063)
 * [Local storage tutorial](https://developer.mozilla.org/en-US/Add-ons/Overlay_Extensions/XUL_School/Local_Storage)
 
-##Performance
+##性能
 
 * [Google developers best practices](https://developers.google.com/speed/docs/insights/rules)
 * [Optimizing performance from Google Web Fundamentals](https://developers.google.com/web/fundamentals/performance/)
@@ -224,7 +224,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Text compression](http://www.html5rocks.com/en/tutorials/speed/txt-compression/)
 * [Resource timing spec](http://www.w3.org/TR/resource-timing/)
 
-## Mobile
+## 移动开发
 
 * [Installable web apps](http://updates.html5rocks.com/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
 * [Field guide to web applications](http://www.html5rocks.com/webappfieldguide/toc/index/)
@@ -239,7 +239,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [HTML5 Network Information API](http://code.tutsplus.com/tutorials/html5-network-information-api--cms-21598)
 * [Sencha Touch tutorials](http://docs.sencha.com)
 
-##Communications and interoperability
+##沟通与协同
 
 ###Web Sockets
 
