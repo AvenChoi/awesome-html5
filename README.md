@@ -116,19 +116,19 @@ Awesome HTML5资源库 官方中文版
 
 ###权限
 
-* [Permissions API for the Web by Google](https://developers.google.com/web/updates/2015/04/permissions-api-for-the-web)
+* [Google：权限API](https://developers.google.com/web/updates/2015/04/permissions-api-for-the-web)
 
 ###语音识别
 
-* [Intro to the HTML5 Speech Synthesis API](http://creative-punch.net/2014/10/intro-html5-speech-synthesis-api/)
-* [Another useful intro](http://shapeshed.com/html5-speech-recognition-api/)
-* [Experimenting with the Web Speech API](http://www.sitepoint.com/experimenting-web-speech-api/)
-* [Free voice recognition library (annyang)](https://www.talater.com/annyang/)
+* [HTML5 语音识别 API](http://creative-punch.net/2014/10/intro-html5-speech-synthesis-api/)
+* [另一个有用的介绍](http://shapeshed.com/html5-speech-recognition-api/)
+* [分享Web语音API的一些经验](http://www.sitepoint.com/experimenting-web-speech-api/)
+* [免费的声音识别库 (annyang)](https://www.talater.com/annyang/)
 
 ###地理位置
 
-* [Using Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation)
-* [HTML5 Apps: Positioning with Geolocation](http://code.tutsplus.com/tutorials/html5-apps-positioning-with-geolocation--mobile-456)
+* [使用地理位置](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation)
+* [HTML5应用:Geolocation地理位置](http://code.tutsplus.com/tutorials/html5-apps-positioning-with-geolocation--mobile-456)
 
 ###音频
 
