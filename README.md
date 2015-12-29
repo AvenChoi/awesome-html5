@@ -44,10 +44,10 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 - [Books](#books)
 - [Game development](#game-development)
 - [Videos and Keynotes](#videos-and-keynotes)
-- [Websites and resources](#websites-and-resources)
-  - [Websites](#websites)
-  - [Weekly news](#weekly-news)
-  - [Twitter](#twitter)
+- [网站与资源](#网站与资源)
+  - [官方网站](#官方网站)
+  - [网络周刊](#网络周刊)
+  - [Twitter微博地址](#Twitter微博地址)
 - [贡献区](#贡献区)
 
 ##文章与标准
