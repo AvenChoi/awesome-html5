@@ -132,72 +132,72 @@ Awesome HTML5资源库 官方中文版
 
 ###音频
 
-* [Getting started with the Web Audio API](http://www.html5rocks.com/en/tutorials/webaudio/intro/?redirect_from_locale=es)
-* [Web Audio API at MDN](https://developer.mozilla.org/es/docs/Web_Audio_API)
-* [Making a Guitar Tuner with HTML5](http://jonathan.bergknoff.com/journal/making-a-guitar-tuner-html5)
+* [快速开始Web Audio API](http://www.html5rocks.com/en/tutorials/webaudio/intro/?redirect_from_locale=es)
+* [MDN：Web Audio API](https://developer.mozilla.org/es/docs/Web_Audio_API)
+* [手把手教你做HTML5吉他调音器](http://jonathan.bergknoff.com/journal/making-a-guitar-tuner-html5)
 
 ###加密解密
 
-* [Web Cryptography API draft](http://www.w3.org/TR/WebCryptoAPI/)
-* [Table of web cryptography support](http://diafygi.github.io/webcrypto-examples/)
-* [Window.crypto](https://developer.mozilla.org/en-US/docs/Web/API/Window/crypto)
-* [Cryptography next steps from W3C](http://www.w3.org/2012/webcrypto/webcrypto-next-workshop/report.html)
+* [网络加密 API 草稿](http://www.w3.org/TR/WebCryptoAPI/)
+* [网络加密支持一览表](http://diafygi.github.io/webcrypto-examples/)
+* [Window.crypto 加密](https://developer.mozilla.org/en-US/docs/Web/API/Window/crypto)
+* [W3C：下一代网络加密](http://www.w3.org/2012/webcrypto/webcrypto-next-workshop/report.html)
 
 ###视频捕获
 
-* [Capturing Audio & Video in HTML5](http://www.html5rocks.com/es/tutorials/getusermedia/intro/)
-* [Using the media capture API](http://www.sitepoint.com/using-the-media-capture-api/)
+* [使用HTML5捕获音频视频资源](http://www.html5rocks.com/es/tutorials/getusermedia/intro/)
+* [使用媒体捕获API](http://www.sitepoint.com/using-the-media-capture-api/)
 
 ###文件管理
 
-* [Using files from web applications (MDN)](https://developer.mozilla.org/en-US/docs/Using_files_from_web_applications)
-* [Reading local files in JavaScript](http://www.html5rocks.com/en/tutorials/file/dndfiles/)
-* [File API Draft](https://w3c.github.io/FileAPI/)
-* [File system API](http://www.w3.org/TR/file-system-api/)
+* [MDN：从网页应用中获取指定文件](https://developer.mozilla.org/en-US/docs/Using_files_from_web_applications)
+* [使用Javascript读取本地文件](http://www.html5rocks.com/en/tutorials/file/dndfiles/)
+* [W3C：文件 API 草稿](https://w3c.github.io/FileAPI/)
+* [文件系统 API](http://www.w3.org/TR/file-system-api/)
 
 ###帧计时
 
 * [Google Developer|Youtube:Timing API](https://www.youtube.com/watch?v=4zoC3eaa9z0)
-* [Draft from W3C](https://w3c.github.io/frame-timing/)
+* [W3C：帧计时草稿](https://w3c.github.io/frame-timing/)
 
 ###离线应用
 
-* [A Beginner's Guide to Using the Application Cache](http://www.html5rocks.com/en/tutorials/appcache/beginner/)
-* [App manifest in MDN](https://developer.mozilla.org/en/Apps/Build/Manifest)
-* [Manifest for web application from W3C](https://w3c.github.io/manifest/)
-* [WebApp Manifest in Chrome for Android](http://updates.html5rocks.com/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
+* [新手指南：如何使用浏览器应用缓存](http://www.html5rocks.com/en/tutorials/appcache/beginner/)
+* [MDN：应用部署](https://developer.mozilla.org/en/Apps/Build/Manifest)
+* [W3C：部署网页应用](https://w3c.github.io/manifest/)
+* [Android环境下Chrome网页应用部署](http://updates.html5rocks.com/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
 
 ###浏览器调节渲染requestidlecallback
 
-* [On Google developers](https://developers.google.com/web/updates/2015/08/using-requestidlecallback)
+* [GDevelopers：如何使用requestidlecallback](https://developers.google.com/web/updates/2015/08/using-requestidlecallback)
 
 ##语义
 
-* [Semantic elements from W3Schools](http://www.w3schools.com/html/html5_semantic_elements.asp)
-* [Sections and Outlines of an HTML5 from MDN Document](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Sections_and_Outlines_of_an_HTML5_document)
-* [HTML5 Semantics from Smashing Magazine](http://www.smashingmagazine.com/2011/11/html5-semantics/)
+* [W3S：Semantic语义元素](http://www.w3schools.com/html/html5_semantic_elements.asp)
+* [MDN：HTML5表单中的 Sections 和 Outlines](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Sections_and_Outlines_of_an_HTML5_document)
+* [SM：HTML5 Semantics语义元素](http://www.smashingmagazine.com/2011/11/html5-semantics/)
 
 ##易用性
 
-* [ARIA from MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
-* [Accessibility in HTML5](http://www.clarissapeterson.com/2012/11/html5-accessibility/)
-* [Aural UI of the Elements of HTML](http://thepaciellogroup.github.io/AT-browser-tests/)
+* [手把手教你认识ARIA属性](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+* [浅谈HTML5易用性](http://www.clarissapeterson.com/2012/11/html5-accessibility/)
+* [关于HTML5中Aural UI元素](http://thepaciellogroup.github.io/AT-browser-tests/)
 * [Web Accessibility Evaluation Tools List](http://www.w3.org/WAI/ER/tools/)
-* [Aria in HTML](https://www.paciellogroup.com/blog/2014/10/aria-in-html-there-goes-the-neighborhood/)
-* [Accessible and Responsive HTML5 Video Player](https://ind.ie/about/blog/accessible-video-player/)
+* [HTML5：Aria属性](https://www.paciellogroup.com/blog/2014/10/aria-in-html-there-goes-the-neighborhood/)
+* [HTML5视频播放器的响应与易用](https://ind.ie/about/blog/accessible-video-player/)
 
 ##DOM管理
 
 ###Shadow DOM
 
-* [Intro to Shadow DOM](http://code.tutsplus.com/tutorials/intro-to-shadow-dom--net-34966)
+* [介绍Shadow DOM](http://code.tutsplus.com/tutorials/intro-to-shadow-dom--net-34966)
 * [Shadow DOM 101](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/?redirect_from_locale=es)
-* [Shadow DOM CSS and Styling](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-201/)
-* [Advanced Concepts & DOM APIs](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-301/)
+* [Shadow DOM CSS 样式](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-201/)
+* [高级概念和DOM API](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-301/)
 
 ###数据绑定
 
-* [Data-binding Revolutions with Object.observe()](http://www.html5rocks.com/en/tutorials/es7/observe/)
+* [通过Object.observe()进行数据绑定运行](http://www.html5rocks.com/en/tutorials/es7/observe/)
 
 ###Web组件
 
