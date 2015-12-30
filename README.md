@@ -162,7 +162,7 @@ Awesome HTML5资源库 官方中文版
 
 ###离线应用
 
-* [新手指南：如何使用浏览器应用缓存](http://www.html5rocks.com/en/tutorials/appcache/beginner/)
+* [新手指南：如何使用应用缓存](http://www.html5rocks.com/en/tutorials/appcache/beginner/)
 * [MDN：应用部署](https://developer.mozilla.org/en/Apps/Build/Manifest)
 * [W3C：部署网页应用](https://w3c.github.io/manifest/)
 * [Android环境下Chrome网页应用部署](http://updates.html5rocks.com/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
@@ -192,7 +192,7 @@ Awesome HTML5资源库 官方中文版
 
 * [介绍Shadow DOM](http://code.tutsplus.com/tutorials/intro-to-shadow-dom--net-34966)
 * [Shadow DOM 101](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/?redirect_from_locale=es)
-* [Shadow DOM CSS 样式](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-201/)
+* [Shadow DOM CSS 样式](http://www.html5rocks.com/zh/tutorials/webcomponents/shadowdom-201/)
 * [高级概念和DOM API](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-301/)
 
 ###数据绑定
@@ -201,10 +201,10 @@ Awesome HTML5资源库 官方中文版
 
 ###Web组件
 
-* [Defininf custom HTML elements](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/)
-* [HTML imports](http://www.html5rocks.com/en/tutorials/webcomponents/imports/)
-* [Polymer project](https://github.com/polymer)
-* [Building Webapps with Yeoman and Polymer](http://www.html5rocks.com/en/tutorials/webcomponents/yeoman/)
+* [定义自定义HTML元素](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/)
+* [HTML imports功能](http://www.html5rocks.com/en/tutorials/webcomponents/imports/)
+* [Polymer项目](https://github.com/polymer)
+* [使用Yeoman、Polymer开发Web应用组件](http://www.html5rocks.com/en/tutorials/webcomponents/yeoman/)
 
 ##客户端存储
 
@@ -216,50 +216,50 @@ Awesome HTML5资源库 官方中文版
 
 ##性能
 
-* [Google developers best practices](https://developers.google.com/speed/docs/insights/rules)
-* [Optimizing performance from Google Web Fundamentals](https://developers.google.com/web/fundamentals/performance/)
-* [Tutorials from Google](https://developers.google.com/speed/articles/)
+* [GD：性能最佳练习](https://developers.google.com/speed/docs/insights/rules)
+* [Google：优化性能 Web 基本原则](https://developers.google.com/web/fundamentals/performance/)
+* [教程](https://developers.google.com/speed/articles/)
 * [Resource hints draft (preconnect and preload)](http://www.w3.org/TR/2014/WD-resource-hints-20141021/)
 * [Prefetching and prerendeding](https://medium.com/@luisvieira_gmr/html5-prefetch-1e54f6dda15d)
-* [Image compression](http://www.html5rocks.com/en/tutorials/speed/img-compression/)
-* [Text compression](http://www.html5rocks.com/en/tutorials/speed/txt-compression/)
-* [Resource timing spec](http://www.w3.org/TR/resource-timing/)
+* [图片压缩](http://www.html5rocks.com/en/tutorials/speed/img-compression/)
+* [文本压缩](http://www.html5rocks.com/en/tutorials/speed/txt-compression/)
+* [资源耗时](http://www.w3.org/TR/resource-timing/)
 
 ## 移动开发
 
-* [Installable web apps](http://updates.html5rocks.com/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
+* [可安装的网页应用](http://updates.html5rocks.com/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
 * [Field guide to web applications](http://www.html5rocks.com/webappfieldguide/toc/index/)
-* [Tutorial: developing a PhoneGap application](http://coenraets.org/blog/phonegap-tutorial/)
-* [Apache Cordova tutorial](http://ccoenraets.github.io/cordova-tutorial/)
-* [PhoneGap from Scratch](http://code.tutsplus.com/tutorials/phonegap-from-scratch-introduction--mobile-9171)
-* [Best practices for mobile web apps](http://www.html5rocks.com/en/tutorials/speed/quick/)
-* [Build mobile apps with Kendo UI](http://docs.telerik.com/kendo-ui/mobile/introduction)
-* [HTML5 Vibration API](http://code.tutsplus.com/tutorials/html5-vibration-api--mobile-22585)
-* [HTML5 Battery Status API](http://code.tutsplus.com/tutorials/html5-battery-status-api--mobile-22795)
-* [Privacy analysis of the HTML5 Battery Status API](http://eprint.iacr.org/2015/616.pdf)
-* [HTML5 Network Information API](http://code.tutsplus.com/tutorials/html5-network-information-api--cms-21598)
-* [Sencha Touch tutorials](http://docs.sencha.com)
+* [手把手教你开发 PhoneGap 应用](http://coenraets.org/blog/phonegap-tutorial/)
+* [Apache Cordova 教程](http://ccoenraets.github.io/cordova-tutorial/)
+* [PhoneGap 教程](http://code.tutsplus.com/tutorials/phonegap-from-scratch-introduction--mobile-9171)
+* [移动Web应用最佳实践](http://www.html5rocks.com/en/tutorials/speed/quick/)
+* [使用Kendo UI建立移动应用](http://docs.telerik.com/kendo-ui/mobile/introduction)
+* [HTML5 震动 API](http://code.tutsplus.com/tutorials/html5-vibration-api--mobile-22585)
+* [HTML5 电池状态API](http://code.tutsplus.com/tutorials/html5-battery-status-api--mobile-22795)
+* [使用HTML5 电池状态 API隐性分析](http://eprint.iacr.org/2015/616.pdf)
+* [HTML5 网络设备信息 API](http://code.tutsplus.com/tutorials/html5-network-information-api--cms-21598)
+* [Sencha Touch 教程](http://docs.sencha.com)
 
 ##沟通与协同
 
 ###Web Sockets
 
-* [Using WebWorkers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
-* [Introducing Websockets](http://www.html5rocks.com/en/tutorials/websockets/basics/)
+* [使用WebWorkers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
+* [介绍Websockets](http://www.html5rocks.com/en/tutorials/websockets/basics/)
 
 ###WebRTC
 
-* [What is WebRTC and how does it work](http://www.innoarchitech.com/what-is-webrtc-and-how-does-it-work)
-* [WebRTC made simple](http://blog.carbonfive.com/2014/10/16/webrtc-made-simple/)
-* [WebRTC data channels tutorial](http://www.html5rocks.com/en/tutorials/webrtc/datachannels/)
-* [WebRTC data channels from MDN](https://developer.mozilla.org/en-US/docs/Games/Techniques/WebRTC_data_channels)
+* [什么是WebRTC及运行原理](http://www.innoarchitech.com/what-is-webrtc-and-how-does-it-work)
+* [WebRTC使一切更简单](http://blog.carbonfive.com/2014/10/16/webrtc-made-simple/)
+* [WebRTC 数据频道介绍](http://www.html5rocks.com/en/tutorials/webrtc/datachannels/)
+* [MDN：WebRTC 数据频道](https://developer.mozilla.org/en-US/docs/Games/Techniques/WebRTC_data_channels)
 
 ##Web Workers
 
-* [Web Worker Basics](http://www.html5rocks.com/en/tutorials/workers/basics/)
-* [How fast are web workers?](https://hacks.mozilla.org/2015/07/how-fast-are-web-workers/)
-* [Web Workers in MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
-* [Getting started with Web Workers](http://code.tutsplus.com/tutorials/getting-started-with-web-workers--net-27667)
+* [Web Worker 基础篇](http://www.html5rocks.com/en/tutorials/workers/basics/)
+* [web workers能有多快?](https://hacks.mozilla.org/2015/07/how-fast-are-web-workers/)
+* [MDN：Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
+* [快速开始 Web Workers](http://code.tutsplus.com/tutorials/getting-started-with-web-workers--net-27667)
 
 ##Service Workers
 
@@ -268,17 +268,17 @@ Awesome HTML5资源库 官方中文版
 
 ## WebGL-3D绘图标准
 
-* [WebGL Fundamentals](http://www.html5rocks.com/en/tutorials/webgl/webgl_fundamentals/)
+* [WebGL 基本原理介绍](http://www.html5rocks.com/en/tutorials/webgl/webgl_fundamentals/)
 
 ##浏览器兼容性
 
-* [I want to use](http://www.iwanttouse.com/)
-* [Can I use...](http://caniuse.com/)
-* [W3C quality tools](http://w3c.github.io/developers/tools/)
-* [HTML5 test](http://beta.html5test.com/)
-* [HTML5 demos](http://html5demos.com/)
+* [I want to use网站](http://www.iwanttouse.com/)
+* [Can I use...网站](http://caniuse.com/)
+* [W3C 网页质量工具](http://w3c.github.io/developers/tools/)
+* [HTML5 测试](http://beta.html5test.com/)
+* [HTML5 演示](http://html5demos.com/)
 
-##图书资源
+##图书资源 ::书名暂不翻译，以免碍于搜索查询购买::
 
 * [Dive into HTML5](http://diveintohtml5.info/)
 * [HTML5: Up and Running](http://www.amazon.com/HTML5-Up-Running-Mark-Pilgrim/dp/0596806027)
@@ -287,10 +287,10 @@ Awesome HTML5资源库 官方中文版
 
 ##游戏开发
 
-* [Getting started with HTML5 Game Development from Mozilla Hacks](https://hacks.mozilla.org/2013/09/getting-started-with-html5-game-development/)
-* [Info, news and tutorials](http://www.html5gamedevelopment.com/)
-* [Over 380 resources on HTML5 game development](https://html5-game-development.zeef.com/andre.antonio.schmitz)
-* Opensource JavaScript game engines
+* [Mozilla Hacks：快速开始HTML5 游戏开发 ](https://hacks.mozilla.org/2013/09/getting-started-with-html5-game-development/)
+* [资讯、信息以及教程](http://www.html5gamedevelopment.com/)
+* [多达380种HTML5游戏开发资源](https://html5-game-development.zeef.com/andre.antonio.schmitz)
+* 开源JS游戏引擎|欢迎投稿更新
   - [Pixi.js](https://github.com/pixijs/pixi.js)
   - [phaser](https://github.com/photonstorm/phaser)
   - [MelonJS](https://github.com/melonjs/melonJS)
@@ -302,9 +302,9 @@ Awesome HTML5资源库 官方中文版
 
 ##视频资源
 
-* [HTML5 Developer Conference](http://html5devconf.com/videos.html)
+* [HTML5 开发者大会](http://html5devconf.com/videos.html)
 * [Polymer: declarative, encapsulated, reusable components](https://www.youtube.com/watch?v=DH1vTVkqCDQ)
-* [Making the mobile web fast, feature-rich, and beautiful](https://www.youtube.com/watch?v=EXjPsvwIDwU)
+* [Web移动：更快速、更丰富、更优美](https://www.youtube.com/watch?v=EXjPsvwIDwU)
 * [Dart: HTML of the Future, Today!](https://www.youtube.com/watch?v=euCNWhs7ivQ)
 
 ##网站与资源
