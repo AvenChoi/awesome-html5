@@ -311,7 +311,7 @@ Awesome HTML5资源库 官方中文版
 
 ###官方网站
 
-* [HTML official reference](http://docs.webplatform.org/wiki/html)(allows collaborative modification of content like wiki)
+* [HTML 官方指南](http://docs.webplatform.org/wiki/html)(allows collaborative modification of content like wiki)
 * [HTML5 Rocks](http://www.html5rocks.com/) (news, tutorials and updates)
 * [HTML5 Hub](http://html5hub.com/) (developer community including articles, discussions and open projects)
 * [HTML5 Gallery](http://html5gallery.com/) (a showcase of sites using HTML5 markup and API's)

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>心碎的日落</title>
+    <script src="//cdn.bootcss.com/jquery/3.0.0-alpha1/jquery.min.js"></script>
+
+    <script type="text/javascript">
+        $(function () {
+
+            $("#quickr").click(function(){
+                $(this).attr("class","quickr active");
+                $("#netpay").attr("class","quickr ");
+
+            });
+            $("#netpay").click(function(){
+                $(this).attr("class","quickr active");
+                $("#quickr").attr("class","quickr ");
+            });
+        });
+
+    </script>
+</head>
+<body>
+
+<style>
+    .payChannel{
+        display: inline-block;float:left;width:100%;
+    }
+    div.quickr{
+        width:75px;
+        height:22px;
+        font-size:14px;
+        border:1px solid transparent;
+        cursor: pointer;
+        float:left;
+        padding-top:3px;
+        text-align: center;
+    }
+    .active{
+        background:url("img/payChannel.png") no-repeat;
+    }
+</style>
+<div class="payChannel" id="payChannel">
+    <div id="quickr" class="quickr active">快捷支付</div>
+    <div id="netpay" class="quickr ">网银支付</div>
+</div>
+</body>
+</html>
